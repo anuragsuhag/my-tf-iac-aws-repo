@@ -25,6 +25,5 @@ variable "tag_name" {
 
 variable "ami_id" {
   description = "AMI for Ubuntu Ec2 instance"
-  default     = "ami-0a1a70369f0fce06a
-"
+  default     = "ami-0a1a70369f0fce06a"
 }
